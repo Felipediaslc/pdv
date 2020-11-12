@@ -20,9 +20,9 @@
 	</parent>
 
 	<properties>
-	        <sonar.projectKey>Abcontrol</sonar.projectKey>
-		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>559bde145e01cf0a8ea758d04f33cb8486624271</sonar.login>	
+	        <sonar.projectKey>pvd:sistemadeERP</sonar.projectKey>
+		<sonar.host.url>http://ip172-18-0-66-bumaiopqckh000b2pag0-9000.direct.labs.play-with-docker.com</sonar.host.url>
+		<sonar.login>82fe08115f7411f1afc89a7ec472f4ab884653f9</sonar.login>	
 		<sonar.language>java</sonar.language>	
 		<sonar.sources>src/main/java</sonar.sources>
 		<sonar.java.binaries>target/classes</sonar.java.binaries>
